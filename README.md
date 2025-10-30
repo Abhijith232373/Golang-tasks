@@ -14,7 +14,11 @@
 - [x] Create a custom package for arithmetic functions.
 
 
+## DAY-3
 
+- [x] Find max and min in an array.
+- [x] Remove duplicates from a slice.
+- [x] Create a map for student names & grades, allow updates.
 
 
 
