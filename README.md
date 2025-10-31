@@ -1,10 +1,12 @@
 # Repo fo pushing golang tasks
 ---
-## Day-1
+## Day-1                       
+<img align="right" src="goman-removebg-preview.png" width="120px">
 
-- [x] Calculator
-- [x] Odd or Even
-- [x] Fibanocci
+- [x] Calculator  
+- [x] Odd or Even  
+- [x] Fibonacci
+
 
 
 ## DAY-2
