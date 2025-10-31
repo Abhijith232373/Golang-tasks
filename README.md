@@ -21,9 +21,21 @@
 - [x] Create a map for student names & grades, allow updates.
 
 
+## DAY-4
+- [ ] Create Person struct with a print method.
+- [ ] Implement Shape interface with Area() and Perimeter() for Circle and Rectangle.
+- [ ] Function to modify an integer using pointers.
 
 
+ ## DAY-5
+ 
+ - [ ] Two goroutines printing odd & even numbers concurrently.
+ - [ ] Producer-consumer system using channels.
+ - [ ] Use Mutex to avoid race in counter.
 
-###
+***
+***
+***
+
 
 ![Cover Image](./go.png)
