@@ -1,7 +1,7 @@
 # Repo fo pushing golang tasks
 ---
 ## Day-1                       
-<img align="right" src="goman-removebg-preview.png" width="120px">
+<img align="right" src="Img/goman-removebg-preview.png" width="120px">
 
 - [x] Calculator  
 - [x] Odd or Even  
@@ -10,7 +10,7 @@
 
 
 ## DAY-2
-<img align="right" src="goimg-removebg-preview.png" width="120px">
+<img align="right" src="Img/goimg-removebg-preview.png" width="120px">
 
 - [x] Function that returns sum, diff, product, and quotient of two numbers.
 - [x] Division with error handling (handle divide by zero).
@@ -18,7 +18,7 @@
 
 
 ## DAY-3
-<img align="right" src="go2-removebg-preview.png" width="120px"/>
+<img align="right" src="Img/go2-removebg-preview.png" width="120px"/>
 
 - [x] Find max and min in an array.
 - [x] Remove duplicates from a slice.
@@ -27,7 +27,7 @@
 
 ## DAY-4
 
-<img align="right" src="go3-removebg-preview.png" with="120px"/>
+<img align="right" src="Img/go3-removebg-preview.png" with="120px"/>
 
 
 - [x] Create Person struct with a print method.
@@ -47,4 +47,4 @@
 ***
 
 
-![Cover Image](./go.png)
+![Cover Image](./Img/go.png)
