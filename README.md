@@ -38,13 +38,27 @@
  ## DAY-5
 
 
- - [ ] Two goroutines printing odd & even numbers concurrently.
- - [ ] Producer-consumer system using channels.
- - [ ] Use Mutex to avoid race in counter.
+ - [x] Two goroutines printing odd & even numbers concurrently.
+ - [x] Producer-consumer system using channels.
+ - [x] Use Mutex to avoid race in counter.
 
 ***
 ***
 ***
+
+## PROJECT CRUD-APP
+
+### Features
+
+- Struct: `Student` (Name, Age)
+- Slice to store students
+- Functions:
+    - `AddStudent(name string, age int)`
+    - `ListStudents()`
+    - `UpdateStudent(index int, newName string, newAge int)`
+    - `DeleteStudent(index int)`
+- Menu loop for CRUD actions
+- Error handling & pointer usage
 
 
 ![Cover Image](./Img/go.png)
