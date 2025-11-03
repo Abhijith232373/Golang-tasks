@@ -30,9 +30,9 @@
 <img align="right" src="go3-removebg-preview.png" with="120px"/>
 
 
-- [ ] Create Person struct with a print method.
-- [ ] Implement Shape interface with Area() and Perimeter() for Circle and Rectangle.
-- [ ] Function to modify an integer using pointers.
+- [x] Create Person struct with a print method.
+- [x] Implement Shape interface with Area() and Perimeter() for Circle and Rectangle.
+- [x] Function to modify an integer using pointers.
 
 
  ## DAY-5
